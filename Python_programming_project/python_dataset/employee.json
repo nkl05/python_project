@@ -1,0 +1,353 @@
+{ 
+"objects":[ 
+{ 
+"ID":"1",
+"JobTitle":"Designer",
+"EmailAddress":"Leroy_Yarlett52@guentu.biz",
+"FirstNameLastName":"Leroy Yarlett",
+"vaccinated":"False"
+},
+{ 
+"ID":"2",
+"JobTitle":"Webmaster",
+"EmailAddress":"Julian_Gonzales8496@famism.biz",
+"FirstNameLastName":"Julian Gonzales",
+"vaccinated":"True"
+},
+{ 
+"ID":"3",
+"JobTitle":"Paramedic",
+"EmailAddress":"George_Porter6363@deons.tech",
+"FirstNameLastName":"George Porter",
+"vaccinated":"False"
+},
+{ 
+"ID":"4",
+"JobTitle":"IT Support Staff",
+"EmailAddress":"Penny_Reynolds8665@supunk.biz",
+"FirstNameLastName":"Penny Reynolds",
+"vaccinated":"False"
+},
+{ 
+"ID":"5",
+"JobTitle":"Dentist",
+"EmailAddress":"Gabriel_Upton1432@bungar.biz",
+"FirstNameLastName":"Gabriel Upton",
+"vaccinated":"True"
+},
+{ 
+"ID":"6",
+"JobTitle":"Bookkeeper",
+"EmailAddress":"Rufus_Jeffery8782@mafthy.com",
+"FirstNameLastName":"Rufus Jeffery",
+"vaccinated":"True"
+},
+{ 
+"ID":"7",
+"JobTitle":"Restaurant Manager",
+"EmailAddress":"Harry_Thomas3263@guentu.biz",
+"FirstNameLastName":"Harry Thomas",
+"vaccinated":"False"
+},
+{ 
+"ID":"8",
+"JobTitle":"Audiologist",
+"EmailAddress":"Michaela_Little1010@yahoo.com",
+"FirstNameLastName":"Michaela Little",
+"vaccinated":"True"
+},
+{ 
+"ID":"9",
+"JobTitle":"Loan Officer",
+"EmailAddress":"Mike_Tailor5085@qater.org",
+"FirstNameLastName":"Mike Tailor",
+"vaccinated":"False"
+},
+{ 
+"ID":"10",
+"JobTitle":"Assistant Buyer",
+"EmailAddress":"Angelina_Haines1218@liret.org",
+"FirstNameLastName":"Angelina Haines",
+"vaccinated":"False"
+},
+{ 
+"ID":"11",
+"JobTitle":"Pharmacist",
+"EmailAddress":"Goldie_Oakley4929@nanoff.biz",
+"FirstNameLastName":"Goldie Oakley",
+"vaccinated":"False"
+},
+{ 
+"ID":"12",
+"JobTitle":"Global Logistics Supervisor",
+"EmailAddress":"Sylvia_Marshall5064@vetan.org",
+"FirstNameLastName":"Sylvia Marshall",
+"vaccinated":"True"
+},
+{ 
+"ID":"13",
+"JobTitle":"Restaurant Manager",
+"EmailAddress":"Mike_Vaughn8880@bulaffy.com",
+"FirstNameLastName":"Mike Vaughn",
+"vaccinated":"True"
+},
+{ 
+"ID":"14",
+"JobTitle":"Machine Operator",
+"EmailAddress":"Melinda_Shepherd7534@ubusive.com",
+"FirstNameLastName":"Melinda Shepherd",
+"vaccinated":"False"
+},
+{ 
+"ID":"15",
+"JobTitle":"Operator",
+"EmailAddress":"Doris_Goldsmith6453@famism.biz",
+"FirstNameLastName":"Doris Goldsmith",
+"vaccinated":"True"
+},
+{ 
+"ID":"16",
+"JobTitle":"Associate Professor",
+"EmailAddress":"Chris_Neal8692@typill.biz",
+"FirstNameLastName":"Chris Neal",
+"vaccinated":"False"
+},
+{ 
+"ID":"17",
+"JobTitle":"Health Educator",
+"EmailAddress":"Harry_Chester2240@tonsy.org",
+"FirstNameLastName":"Harry Chester",
+"vaccinated":"True"
+},
+{ 
+"ID":"18",
+"JobTitle":"Inspector",
+"EmailAddress":"Marla_Farrant3348@deons.tech",
+"FirstNameLastName":"Marla Farrant",
+"vaccinated":"False"
+},
+{ 
+"ID":"19",
+"JobTitle":"Fabricator",
+"EmailAddress":"Tania_Kennedy8370@corti.com",
+"FirstNameLastName":"Tania Kennedy",
+"vaccinated":"False"
+},
+{ 
+"ID":"20",
+"JobTitle":"Retail Trainee",
+"EmailAddress":"Bryon_Gibbons5610@corti.com",
+"FirstNameLastName":"Bryon Gibbons",
+"vaccinated":"False"
+},
+{ 
+"ID":"21",
+"JobTitle":"Cash Manager",
+"EmailAddress":"Ivette_Taylor973@extex.org",
+"FirstNameLastName":"Ivette Taylor",
+"vaccinated":"False"
+},
+{ 
+"ID":"22",
+"JobTitle":"HR Coordinator",
+"EmailAddress":"Chadwick_Eaton1419@twace.org",
+"FirstNameLastName":"Chadwick Eaton",
+"vaccinated":"False"
+},
+{ 
+"ID":"23",
+"JobTitle":"Webmaster",
+"EmailAddress":"Chuck_Plumb9701@nickia.com",
+"FirstNameLastName":"Chuck Plumb",
+"vaccinated":"False"
+},
+{ 
+"ID":"24",
+"JobTitle":"Steward",
+"EmailAddress":"Candace_London3099@mafthy.com",
+"FirstNameLastName":"Candace London",
+"vaccinated":"False"
+},
+{ 
+"ID":"25",
+"JobTitle":"Investment  Advisor",
+"EmailAddress":"Marvin_Wilde6902@cispeto.com",
+"FirstNameLastName":"Marvin Wilde",
+"vaccinated":"True"
+},
+{ 
+"ID":"26",
+"JobTitle":"Doctor",
+"EmailAddress":"Barry_Taylor950@grannar.com",
+"FirstNameLastName":"Barry Taylor",
+"vaccinated":"True"
+},
+{ 
+"ID":"27",
+"JobTitle":"Bellman",
+"EmailAddress":"Elijah_Harrison3622@bungar.biz",
+"FirstNameLastName":"Elijah Harrison",
+"vaccinated":"False"
+},
+{ 
+"ID":"28",
+"JobTitle":"Front Desk Coordinator",
+"EmailAddress":"Jazmin_Mason8297@gembat.biz",
+"FirstNameLastName":"Jazmin Mason",
+"vaccinated":"False"
+},
+{ 
+"ID":"29",
+"JobTitle":"Budget Analyst",
+"EmailAddress":"Ramon_Whinter4041@elnee.tech",
+"FirstNameLastName":"Ramon Whinter",
+"vaccinated":"True"
+},
+{ 
+"ID":"30",
+"JobTitle":"Doctor",
+"EmailAddress":"Candace_Darcy6235@jiman.org",
+"FirstNameLastName":"Candace Darcy",
+"vaccinated":"False"
+},
+{ 
+"ID":"31",
+"JobTitle":"Insurance Broker",
+"EmailAddress":"Leilani_Rose1103@fuliss.net",
+"FirstNameLastName":"Leilani Rose",
+"vaccinated":"False"
+},
+{ 
+"ID":"32",
+"JobTitle":"Software Engineer",
+"EmailAddress":"Noemi_Miller6490@eirey.tech",
+"FirstNameLastName":"Noemi Miller",
+"vaccinated":"True"
+},
+{ 
+"ID":"33",
+"JobTitle":"Lecturer",
+"EmailAddress":"Alba_Carson2919@typill.biz",
+"FirstNameLastName":"Alba Carson",
+"vaccinated":"True"
+},
+{ 
+"ID":"34",
+"JobTitle":"Doctor",
+"EmailAddress":"Russel_Walter1385@bungar.biz",
+"FirstNameLastName":"Russel Walter",
+"vaccinated":"True"
+},
+{ 
+"ID":"35",
+"JobTitle":"Design Engineer",
+"EmailAddress":"Maia_Kennedy6742@naiker.biz",
+"FirstNameLastName":"Maia Kennedy",
+"vaccinated":"False"
+},
+{ 
+"ID":"36",
+"JobTitle":"Physician",
+"EmailAddress":"Fred_Clifton2086@infotech44.tech",
+"FirstNameLastName":"Fred Clifton",
+"vaccinated":"False"
+},
+{ 
+"ID":"37",
+"JobTitle":"Call Center Representative",
+"EmailAddress":"Alexander_Kennedy1766@mafthy.com",
+"FirstNameLastName":"Alexander Kennedy",
+"vaccinated":"True"
+},
+{ 
+"ID":"38",
+"JobTitle":"Systems Administrator",
+"EmailAddress":"Naomi_Henderson4478@sheye.org",
+"FirstNameLastName":"Naomi Henderson",
+"vaccinated":"True"
+},
+{ 
+"ID":"39",
+"JobTitle":"Biologist",
+"EmailAddress":"Hank_Howard765@liret.org",
+"FirstNameLastName":"Hank Howard",
+"vaccinated":"False"
+},
+{ 
+"ID":"40",
+"JobTitle":"Steward",
+"EmailAddress":"Dorothy_Mackenzie4447@deons.tech",
+"FirstNameLastName":"Dorothy Mackenzie",
+"vaccinated":"False"
+},
+{ 
+"ID":"41",
+"JobTitle":"Front Desk Coordinator",
+"EmailAddress":"Elena_Gregory8402@ubusive.com",
+"FirstNameLastName":"Elena Gregory",
+"vaccinated":"True"
+},
+{ 
+"ID":"42",
+"JobTitle":"Production Painter",
+"EmailAddress":"Helen_Adams3473@guentu.biz",
+"FirstNameLastName":"Helen Adams",
+"vaccinated":"True"
+},
+{ 
+"ID":"43",
+"JobTitle":"Software Engineer",
+"EmailAddress":"Lucas_Brooks385@typill.biz",
+"FirstNameLastName":"Lucas Brooks",
+"vaccinated":"False"
+},
+{ 
+"ID":"44",
+"JobTitle":"Cook",
+"EmailAddress":"Angelina_Ross7491@qater.org",
+"FirstNameLastName":"Angelina Ross",
+"vaccinated":"True"
+},
+{ 
+"ID":"45",
+"JobTitle":"Biologist",
+"EmailAddress":"Remy_Benfield4958@kideod.biz",
+"FirstNameLastName":"Remy Benfield",
+"vaccinated":"True"
+},
+{ 
+"ID":"46",
+"JobTitle":"IT Support Staff",
+"EmailAddress":"Mackenzie_Neal4273@qater.org",
+"FirstNameLastName":"Mackenzie Neal",
+"vaccinated":"True"
+},
+{ 
+"ID":"47",
+"JobTitle":"Associate Professor",
+"EmailAddress":"Janelle_Parker3414@twace.org",
+"FirstNameLastName":"Janelle Parker",
+"vaccinated":"True"
+},
+{ 
+"ID":"48",
+"JobTitle":"Treasurer",
+"EmailAddress":"Matthew_Woodley2830@gembat.biz",
+"FirstNameLastName":"Matthew Woodley",
+"vaccinated":"True"
+},
+{ 
+"ID":"49",
+"JobTitle":"Ambulatory Nurse",
+"EmailAddress":"Anthony_Coleman4896@nanoff.biz",
+"FirstNameLastName":"Anthony Coleman",
+"vaccinated":"True"
+},
+{ 
+"ID":"50",
+"JobTitle":"Restaurant Manager",
+"EmailAddress":"Peyton_Hobson4407@iatim.tech",
+"FirstNameLastName":"Peyton Hobson",
+"vaccinated":"True"
+}
+]}
